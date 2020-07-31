@@ -1,4 +1,4 @@
-# Blockchain-and-Crypto-Currency-Creation
+# Blockchain and Crypto Currency Creation
 
 ## Create a Simple Blockchain
 
