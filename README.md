@@ -103,6 +103,8 @@ After the code is compiled to test the blockchain we need to go to postman or an
 
 **/replace\_chain:** To replace the chain with longest chain among the nodes.
 
+**Click on the Icon below**
+
 [1]: http://www.github.com/Pragya0810
 [2]: https://www.linkedin.com/in/pragya-chhajer-5a5aa6159/
 
